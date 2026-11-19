@@ -1,56 +1,48 @@
-\# HR Analysis Dashboard
+# HR Analysis Dashboard
 
+## 📌 Project Overview
 
+The HR Analysis Dashboard is an interactive Business Intelligence project developed using **Microsoft Power BI**. It focuses on analyzing employee data to understand workforce distribution, employee demographics, attrition patterns, and HR trends.
 
-\## Project Overview
+## 🛠️ Tools & Technologies
 
-An interactive HR Analytics Dashboard developed using Microsoft Power BI to analyze employee data and understand workforce trends.
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Cleaning and Transformation
+- Data Visualization
 
+## 📊 Key Analysis Areas
 
+- Employee Headcount
+- Workforce Demographics
+- Employee Attrition
+- Department-wise Analysis
+- HR Performance Indicators
 
-\## Tools \& Technologies
+## 🎯 Project Objective
 
-\- Microsoft Power BI
+- Analyze employee data to identify workforce patterns.
+- Understand employee distribution across departments.
+- Explore employee demographics and attrition trends.
+- Present HR information through interactive visualizations.
+- Support data-driven workforce analysis.
 
-\- Power Query
+## 🖼️ Dashboard Preview
 
-\- DAX
+![HR Analysis Dashboard](Dashboard-Overview.png)
 
-\- Data Cleaning
+## 💡 Skills Demonstrated
 
-\- Data Visualization
+- Data Analysis
+- Data Cleaning and Transformation
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Visualization
 
+## 👩‍💻 Author
 
+**Akanksha Pawar**
 
-\## Key Analysis Areas
-
-\- Employee headcount
-
-\- Workforce demographics
-
-\- Employee attrition
-
-\- Department-wise analysis
-
-\- HR performance indicators
-
-
-
-\## Dashboard Preview
-
-
-
-!\[HR Analysis Dashboard](Dashboard-Overview.png)
-
-
-
-\## Project Objective
-
-To transform HR data into meaningful insights that support better workforce analysis and decision-making.
-
-
-
-\## Author
-
-Akanksha Pawar
+[GitHub](https://github.com/AKANKSHASUBHASHPAWAR)
 
